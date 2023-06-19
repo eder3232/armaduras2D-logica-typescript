@@ -1,0 +1,22 @@
+{
+  "name": "armaduras-logica",
+  "version": "0.0.1",
+  "description": "logica para resolver armaduras 2d en typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eder3232/armaduras2D-logica-typescript.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "eder_3232",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eder3232/armaduras2D-logica-typescript/issues"
+  },
+  "homepage": "https://github.com/eder3232/armaduras2D-logica-typescript#readme"
+}
