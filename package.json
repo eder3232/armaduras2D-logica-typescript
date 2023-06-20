@@ -4,7 +4,8 @@
   "description": "logica para resolver armaduras 2d en typescript",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node src/main.ts"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/eder3232/armaduras2D-logica-typescript/issues"
   },
-  "homepage": "https://github.com/eder3232/armaduras2D-logica-typescript#readme"
+  "homepage": "https://github.com/eder3232/armaduras2D-logica-typescript#readme",
+  "dependencies": {
+    "mathjs": "^11.8.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.3"
+  }
 }
